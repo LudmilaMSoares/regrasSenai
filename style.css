@@ -1,0 +1,58 @@
+body {
+	font-family: Georgia, sans-serif;
+	background-color: #1a0241;
+	padding: 100px;
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+h2 {
+	color: #fff;
+	margin-top: 50px;
+	border: none;
+	border-radius: 5px;
+	background-color: #8760b6;
+	padding: 20px;
+
+}
+
+button {
+	padding: 10px;
+	background-color: #4b1c71;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	margin: 20px;
+	cursor: pointer;
+	font-size: 18px;
+
+}
+
+button:hover {
+	background-color: #5a2a80;
+}
+
+section {
+	border: none;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Tahoma, sans-serif;
+	display: flex;
+	flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+img{
+	width: 50%;
+}
+
+#lblContador {
+	font-size: 20px;
+	color: #faf8f5;
+	background-color: #7f4ca5;
+	padding: 20px;
+	border: none;
+	border-radius: 5px;
+}
